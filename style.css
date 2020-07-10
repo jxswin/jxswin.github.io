@@ -5,8 +5,9 @@ html {
 body{
     background-color: #3b3938;
     /* background-image: linear-gradient(to bottom , #3b3938, grey); */
+    font-family: 'Raleway', sans-serif;
 
-  }
+}
   
   
  
@@ -67,4 +68,8 @@ footer{
   
 .tile p{
     color: #ddd;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
 }
