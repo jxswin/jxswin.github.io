@@ -1,0 +1,70 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #3b3938;
+    /* background-image: linear-gradient(to bottom , #3b3938, grey); */
+
+  }
+  
+  
+ 
+
+ 
+.navbar{
+    background-color: #7d8c8e;
+} 
+
+.hero-body{
+    background-image: url("images/hero.png");
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.headd{
+    font-family: 'Cinzel', serif;
+    font-size: 65px;
+    text-shadow: 2px 3px 5px #555555;
+    color: #fff;
+}
+
+.bodd{
+    font-size: 35px;
+}
+
+#backs{
+    background-color: #3b3938;
+}
+.info{
+    background-color: #7d8c8e;
+    color: #3b3938;
+}
+
+.container{
+    color: cornsilk;
+}
+
+footer{
+    background-color: #7d8c8e;
+}
+
+.social{
+    padding-left: 30%;
+    padding-right: 30%;
+   
+}
+
+.fa{
+    color: #7d8c8e;
+}
+
+.fa:hover{
+    color: black;
+}
+  
+.tile p{
+    color: #ddd;
+}
